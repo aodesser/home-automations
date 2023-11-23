@@ -1,3 +1,4 @@
+# only working on virtual button
 substitutions:
   devicename: "corridor-light"
   max_temp: "70.0"
